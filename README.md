@@ -40,10 +40,7 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&background=0D1117FF&center=true&vCenter=true&width=800&lines=Merhaba%2C+ben+TopalDev!;Web+Geliştiricisi%2C+Bot+Yazarı%2C+Öğrenci;Hayvansever+%7C+JavaScript%2C+Node%2C+TSX;TruckersMP+VTC+%7C+Yazılım+aşığı!" alt="Typing SVG" />
+</p>
 
-████████╗ ██████╗ ██████╗  █████╗ ██╗     ███████╗██████╗ ███████╗██╗   ██╗
-╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗██║     ██╔════╝██╔══██╗██╔════╝██║   ██║
-   ██║   ██║   ██║██████╔╝███████║██║     █████╗  ██████╔╝█████╗  ██║   ██║
-   ██║   ██║   ██║██╔═══╝ ██╔══██║██║     ██╔══╝  ██╔═══╝ ██╔══╝  ██║   ██║
-   ██║   ╚██████╔╝██║     ██║  ██║███████╗███████╗██║     ███████╗╚██████╔╝
-   ╚═╝    ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚══════╝ ╚═════╝ 

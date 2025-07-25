@@ -30,9 +30,7 @@
 
 ### 🐍 GitHub Yılan Oyunu (Snake)
 
-<p align="center">
-  <img src="https://github.com/kullaniciadiniz/kullaniciadiniz/raw/output/github-contribution-grid-snake.svg" />
-</p>
+![snake gif](https://github.com/TRXX789/TRXX789/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
@@ -48,6 +46,4 @@
 
 > ✨ Kendini sürekli geliştiren, öğrenmeye açık ve üretmeyi seven biri olarak burada projelerimi sergiliyorum. Desteklerin için ⭐ bırakmayı unutma!
 
-<p align="center">
-  <img src="https://github.com/TRXX789/TRXX789/blob/main/snake.gif" />
-</p>
+

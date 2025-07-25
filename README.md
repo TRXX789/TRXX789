@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**TRXX789/TRXX789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hallo, ich bin Topal!
+🎉 Über michHallo! Ich bin Topal. Ich programmiere maßgeschneiderte Automatisierungsbots und erstelle Websites (E-Commerce, Unternehmensseiten).  
+🌟 Meine Fähigkeiten  
 
-Here are some ideas to get you started:
+🖥️ Programmiersprachen: Python, JavaScript, Java  
+🛠️ Technologien: React, Node.js, Docker  
+📊 Datenbanken: MySQL, MongoDB  
+🌐 Andere: Git, Linux, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 GitHub-Statistiken  
+🎮 Beitragsdiagramm: Snake-Spiel      
+📫 Kontaktieren Sie mich  
+
+📧 E-Mail: eposta@ornek.com  
+🌐 Website: websiteniz.com  
+🐦 X: @kullaniciadi  
+💬 Discord: deliyurek

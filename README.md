@@ -48,3 +48,6 @@
 
 > ✨ Kendini sürekli geliştiren, öğrenmeye açık ve üretmeyi seven biri olarak burada projelerimi sergiliyorum. Desteklerin için ⭐ bırakmayı unutma!
 
+<p align="center">
+  <img src="https://github.com/TRXX789/TRXX789/blob/main/snake.gif" />
+</p>
